@@ -1,4 +1,4 @@
-public class Question3 {
+public class GenerateMagicSquare {
     public static void main(String[] args) {
 
     }

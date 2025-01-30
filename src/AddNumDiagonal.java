@@ -1,4 +1,4 @@
-public class Question2 {
+public class AddNumDiagonal {
 
     //method for adding the number in an array diagonally
     public static int sumDiagonal(int[][] num){

@@ -60,7 +60,7 @@ public class RotateMatrix {
         //row becomes column
         for(int i=0; i<n; i++){
             for(int j=i; j<n; j++){
-                //transpose the 2d array, 0,0 nothing happens
+                //transpose the 2d array, at 0,0 nothing happens
                 //example        0,1 = (2)
                 int temp = array[i][j];
                 //    0,1 = (2)      1,0 = (4)

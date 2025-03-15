@@ -54,9 +54,5 @@ public class Rotate2DArrayRagged {
         int [][]rotatedArray = rotate90Clockwise(ragged);
         printMatrix(rotatedArray);
 
-
-//        System.out.println(ragged[0].length);//at row 0, how many columns are there --> 1
-//        System.out.println(ragged[1].length);
-//        System.out.println(ragged[3].length);//at row 3, column = 5
     }
 }
